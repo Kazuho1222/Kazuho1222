@@ -8,6 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kazuho1222&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kazuho1222&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kazuho1222&theme=tokyonight&utcOffset=9)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazuho1222&show_icons=true&theme=tokyonight)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kazuho1222&theme=tokyonight)
