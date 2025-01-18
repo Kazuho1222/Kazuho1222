@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Kazuho1222)
+![](https://raw.githubusercontent.com/Kazuho1222/Kazuho1222/output/github-contribution-grid-snake.svg)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kazuho1222&theme=tokyonight)
