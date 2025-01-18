@@ -10,7 +10,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kazuho1222&theme=tokyonight&utcOffset=9)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kazuho1222&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuho1222&layout=compact&theme=tokyonight)](https://github.com/Kazuho1222/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kazuho1222&layout=compact&theme=tokyonight)](https://github.com/Kazuho1222/github-readme-stats)
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kazuho1222&layout=compact&theme=tokyonight)](https://github.com/Kazuho1222/github-readme-stats)
+-->
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kazuho1222&theme=tokyonight)
