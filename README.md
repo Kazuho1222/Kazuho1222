@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Kazuho👋
 ![](https://komarev.com/ghpvc/?username=Kazuho1222)
 ![](https://raw.githubusercontent.com/Kazuho1222/Kazuho1222/output/github-contribution-grid-snake.svg)
 
